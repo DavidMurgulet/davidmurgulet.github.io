@@ -1,0 +1,104 @@
+{
+    "frontend": [
+        {
+            "id": "1",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        },
+        {
+            "id": "2",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        },  
+        {
+            "id": "3",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+            "id": "5",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg",
+            "title": "css"
+        },
+        {
+            "id": "6",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg",
+            "title": "html"
+        },
+        {
+            "id": "6",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg",
+            "title": "c"
+        }
+    ],
+    "backend": [
+        {
+            "id": "3",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+        },
+        {
+            "id": "4",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg",
+            "title": "java"
+        },
+        {
+            "id": "3",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg",
+            "title": "php"
+        },
+        {
+            "id": "5",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg",
+            "title": "cpp"
+        },
+        {
+            "id": "6",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg",
+            "title": "c"
+        }
+        
+    ],
+    "testing": [
+        {
+            "id": "3",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg",
+            "title": "php"
+        },
+        {
+            "id": "5",
+            "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg",
+            "title": "cpp"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./Screenshot 2023-11-13 at 6.10.23 PM.png",
+            "title": "InsightUBC",
+            "description": "Full stack website that queries files containing course and room information within UBC. Querying done through a RESTful server.",
+            "linktext": "View In Github",
+            "link": "https://github.com/DavidMurgulet/InsightUBC"
+        },
+        {
+          "id": "2",
+          "src": "./Screenshot 2023-07-09 at 5.55.09 PM.png",
+          "title": "HackBase",
+          "description": "Database application that can be used to organize a hackathon or other competitive team based events. Implemented in PHP.",
+          "linktext": "View In Github",
+          "link": "https://github.com/DavidMurgulet/HackathonDatabaseApp"
+        },
+        {
+          "id": "3",
+          "src": "/study_spots.jpg",
+          "title": "Study Spots",
+          "description": "Full-stack application that allows users to review various study spots found around the UBC campus. Primarily implemented in JavaScript and React.",
+          "linktext": "View In Github",
+          "link": "https://github.com/DavidMurgulet/Study_Spots"
+        },
+        {
+            "id": "1",
+            "src": "./Screenshot 2023-07-09 at 5.45.04 PM.png",
+            "title": "FlashCard App",
+            "description": "Term project implemented for CPSC 210, an intro to software construction course.",
+            "linktext": "View In Github",
+            "link": "https://github.com/DavidMurgulet/FlashCardApp"
+        }
+      ]
+}
