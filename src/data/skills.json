@@ -70,7 +70,7 @@
     "portfolio": [
         {
             "id": "1",
-            "src": "./Screenshot 2023-11-13 at 6.10.23 PM.png",
+            "src": "./insightUBC_image.jpg",
             "title": "InsightUBC",
             "description": "Full stack website that queries files containing course and room information within UBC. Querying done through a RESTful server.",
             "linktext": "View In Github",
@@ -78,7 +78,7 @@
         },
         {
           "id": "2",
-          "src": "./Screenshot 2023-07-09 at 5.55.09 PM.png",
+          "src": "./hacbase_image.jpg",
           "title": "HackBase",
           "description": "Database application that can be used to organize a hackathon or other competitive team based events. Implemented in PHP.",
           "linktext": "View In Github",
@@ -86,17 +86,17 @@
         },
         {
           "id": "3",
-          "src": "/study_spots.jpg",
+          "src": "/studyspots_image.jpg",
           "title": "Study Spots",
-          "description": "Full-stack application that allows users to review various study spots found around the UBC campus. Primarily implemented in JavaScript and React.",
+          "description": "Full-stack application that allows users to review various study spots found around the UBC campus. Implemented in JavaScript and React.",
           "linktext": "View In Github",
           "link": "https://github.com/DavidMurgulet/Study_Spots"
         },
         {
             "id": "1",
-            "src": "./Screenshot 2023-07-09 at 5.45.04 PM.png",
+            "src": "./flashcard_img.jpg",
             "title": "FlashCard App",
-            "description": "Term project implemented for CPSC 210, an intro to software construction course.",
+            "description": "Term project implemented for CPSC 210, an intro to software construction course. Implemented in Java and tested with JUnit.",
             "linktext": "View In Github",
             "link": "https://github.com/DavidMurgulet/FlashCardApp"
         }

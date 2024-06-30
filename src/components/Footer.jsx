@@ -12,7 +12,7 @@ const Footer = () => {
 
       <div className="footer--link--container">
         {/* <div className="footer--social--icon"> */}
-            <a href="https://github.com/DavidMurgulet"
+            {/* <a href="https://github.com/DavidMurgulet"
               className='btn--social-github'>
               <FaGithub size={32} />
             </a>
@@ -23,7 +23,7 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/davidmurgulet/"
               className='btn--social-linkedin'>
               <FaInstagram size={32} />
-            </a>
+            </a> */}
         {/* </div> */}
       </div>
 
