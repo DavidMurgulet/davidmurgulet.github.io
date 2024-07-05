@@ -11,23 +11,16 @@ const Footer = () => {
       </div>
 
       <div className="footer--link--container">
-        {/* <div className="footer--social--icon"> */}
-            {/* <a href="https://github.com/DavidMurgulet"
-              className='btn--social-github'>
-              <FaGithub size={32} />
-            </a>
-            <a href="https://www.linkedin.com/in/davidmurgulet/"
-              className='btn--social-linkedin'>
-              <FaLinkedin size={32} />
-            </a>
-            <a href="https://www.linkedin.com/in/davidmurgulet/"
-              className='btn--social-linkedin'>
-              <FaInstagram size={32} />
-            </a> */}
-        {/* </div> */}
+      <a href="https://github.com/davidmurgulet" className="footer--link" target="_blank" rel="noopener noreferrer">
+        <FaGithub className="footer--icon" />
+      </a>
+      <a href="https://linkedin.com/in/davidmurgulet/" className="footer--link" target="_blank" rel="noopener noreferrer">
+        <FaLinkedin className="footer--icon" />
+      </a>
+      <a href="https://instagram.com/yourusername" className="footer--link" target="_blank" rel="noopener noreferrer">
+        <FaInstagram className="footer--icon" />
+      </a>
       </div>
-
-
     </footer>
   );
 }

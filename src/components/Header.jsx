@@ -42,8 +42,10 @@ const Header = () => {
                 <span className="nav__hamburger__line"></span>
             </a>
             <div className={`navbar--items ${navActive ? "active" : ""}`}>
-
+                
                 <ul>
+                <img src="" alt='Profile' className='navbar--image' />
+
                     <li>
                         <Link
                             onClick={closeMenu}
