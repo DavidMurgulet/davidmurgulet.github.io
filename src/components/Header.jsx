@@ -47,7 +47,7 @@ const Header = () => {
         </a>
         <div className={`navbar--items ${navActive ? "active" : ""}`}>
           <ul className="navbar--list">
-            <img src="" alt="Profile" className="navbar--image" />
+            {/* <img src="" alt="Profile" className="navbar--image" /> */}
             <li className="navbar--item">
               <Link
                 onClick={closeMenu}
